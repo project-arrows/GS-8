@@ -19,7 +19,7 @@
 |[Tanba28/GS-8_PD_Board](https://github.com/Tanba28/GS-8_PD_Board)|パラシュートの展開|Niwa||
 |[takamasavvv/RCT-X-Telemetry](https://github.com/takamasavvv/RCT-X-Telemetry)|ダウンリンク|vvv||
 |[Tanba28/GS-8_PM_Board](https://github.com/Tanba28/GS-8_PM_Board)|電源管理・アンビリカル・OBC|Niwa||
-|https://github.com/takamasavvv/RCT-G-MainStation|ダウンリンクデータの可視化|vvv||
+|[takamasavvv/RCT-G-MainStation](https://github.com/takamasavvv/RCT-G-MainStation)|ダウンリンクデータの可視化|vvv||
 
  * すべてのモジュールをCANで統合
  * CANバスに流れてくるデータをOBCが記録
